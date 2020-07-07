@@ -1,5 +1,5 @@
 # CSN
-## @AUTHOR Gialitsis and Voutsadaki-
+## @AUTHOR Gialitsis and Voutsadaki
 ### Implemented as project for the course Machine Learning in Computational Biology 2020
 
 File Descriptions:   
