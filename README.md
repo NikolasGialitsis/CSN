@@ -1,6 +1,20 @@
 # CSN
 ## @AUTHOR Gialitsis and Voutsadaki-
 ### Implemented as project for the course Machine Learning in Computational Biology 2020
+
+File Descriptions:     
+        Already Implemented
+               csndm.m: this function performs the transformation from gene expression matrix to network degree matrix (ndm).
+               csnedge.m: this function calculates the normalized statistic of edge x-y corresponding to two genes
+               csnet.m: The function performs the transformation from gene expression matrix to cell-specific network (csn)
+        Implemented By Us
+                buettner_analysis.r : this script performs the differential expression analysis on the gene expression data 
+                all_in_one_CSN.ipynb : this jupyter notebook constructs and visualizes the representative cell specific network according to various centrality measures 
+      
+               
+               
+
+
 Libraries and Dependencies
 python3.6
 Install GeoParse(2.0.1): !pip install GEOparse:
