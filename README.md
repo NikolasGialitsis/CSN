@@ -4,7 +4,7 @@
 
 Libraries and Dependencies
 python3.6
-Install GeoParse(2.0.1): !pip install GEOparse 
+Install GeoParse(2.0.1): !pip install GEOparse : 
     1. Requirement pandas>=0.17 (1.0.5)
     2. Requirement requests>=2.21.0 (2.23.0)
     3. Requirement numpy>=1.7 (1.18.5)
