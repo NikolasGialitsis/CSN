@@ -1,7 +1,6 @@
 # CSN
-
--Gialitsis and Voutsadaki-
-
+## @AUTHOR Gialitsis and Voutsadaki-
+### Implemented as project for the course Machine Learning in Computational Biology 2020
 Libraries and Dependencies
 python3.6
 Install GeoParse(2.0.1): !pip install GEOparse:
