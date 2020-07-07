@@ -1,4 +1,54 @@
 # CSN
+
+-Gialitsis and Voutsadaki-
+
+Libraries and Dependencies
+python3.6
+Install GeoParse(2.0.1): !pip install GEOparse 
+    Requirement pandas>=0.17 (1.0.5)
+    Requirement requests>=2.21.0 (2.23.0)
+    Requirement numpy>=1.7 (1.18.5)
+    Requirement tqdm>=4.31.1 (4.41.1)
+    Requirement python-dateutil>=2.6.1 (2.8.1)
+    Requirement pytz>=2017.2 (2018.9)
+    Requirement idna<3,>=2.5 (2.9)
+    Requirement certifi>=2017.4.17(2020.6.20)
+    Requiremen  chardet<4,>=3.0.2 (3.0.4)
+    Requirement urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 (1.24.3)
+    Requirement six>=1.5 (1.12.0)
+
+Import Libraries:
+
+    import pandas as pd
+    import copy
+    import matplotlib
+    import matplotlib.pyplot as plt
+    import matplotlib.colors as colors
+    import matplotlib.cm as cm
+    import numpy as np
+    import networkx as nx
+    import sys
+    from scipy.optimize import curve_fit
+    import numpy as np
+    from scipy.stats import norm
+    import GEOparse
+    import pandas
+
+Execution:
+
+1. Unzip Data folder
+2. Open notebook all_in_one_CSN.ipynb (we used Google Collaboratory)
+3. Import files ReprCSN.csv and gea_norm.csv in the working directory
+4. Runtime -> Run All
+
+  
+
+
+
+
+
+
+' Forked Readme Below (ownership belongs to the owners of the respective authors)'
 Cell-specific Network Constructed by Single-cell RNA Sequencing Data
 
     function ndm = csndm(data,alpha,boxsize,normalize)
